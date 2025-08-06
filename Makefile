@@ -45,6 +45,7 @@ uavcan.equipment.gnss.Fix \
 uavcan.equipment.gnss.Fix2 \
 uavcan.equipment.gnss.Auxiliary \
 uavcan.equipment.ahrs.MagneticFieldStrength \
+uavcan.equipment.ahrs.RawIMU \
 uavcan.equipment.gnss.RTCMStream \
 uavcan.equipment.gnss.ECEFPositionVelocity \
 uavcan.protocol.param.GetSet \

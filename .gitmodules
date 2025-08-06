@@ -1,3 +1,4 @@
 [submodule "framework"]
 	path = framework
-	url = git@github.com:CubePilot/framework
+	url = https://github.com/tommyzhng/Cubepilot-framework
+
